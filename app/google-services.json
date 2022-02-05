@@ -1,33 +1,41 @@
 {
   "project_info": {
-    "project_number": "319933494144",
-    "project_id": "chatsapp-256e0",
-    "storage_bucket": "chatsapp-256e0.appspot.com"
+    "project_number": "633115964067",
+    "project_id": "whats-app-mesenger",
+    "storage_bucket": "whats-app-mesenger.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:319933494144:android:95416a5705e1abe455c765",
+        "mobilesdk_app_id": "1:633115964067:android:5052db938fce4bf19b4516",
         "android_client_info": {
-          "package_name": "com.mianasad.chatsapp"
+          "package_name": "com.shahin.chatsapp"
         }
       },
       "oauth_client": [
         {
-          "client_id": "319933494144-7r6vm4qv5j975s66qq2j9ptgjfl6jrai.apps.googleusercontent.com",
+          "client_id": "633115964067-m1hoq3bd3fqc503je1erpo63mpjn4kbe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shahin.chatsapp",
+            "certificate_hash": "d4f7d4097add002488137990c01043928d2ae5cb"
+          }
+        },
+        {
+          "client_id": "633115964067-6074lo1jq7fsv01dl9rqm95vs091i215.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDncUXq0RIf1GAmV-Re7xDG2aZx5jHZUAQ"
+          "current_key": "AIzaSyC-ixkknfuRx3kr0oLW3GmHFb2l162dgnQ"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "319933494144-7r6vm4qv5j975s66qq2j9ptgjfl6jrai.apps.googleusercontent.com",
+              "client_id": "633115964067-6074lo1jq7fsv01dl9rqm95vs091i215.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
